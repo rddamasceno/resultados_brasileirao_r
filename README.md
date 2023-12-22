@@ -1,4 +1,4 @@
-<h1 align="center">Análise de Dados do Campeonato Brasileiro 2003-2022</h1>
+<h1 align="center">Análise do Campeonato Brasileiro 2003-2022</h1>
 
 Este projeto em R realiza uma análise dos dados do Campeonato Brasileiro de 2003 a 2022, disponíveis no Kaggle. A análise inclui a visualização de gols marcados por ano e por estado, utilizando mapas para mostrar a distribuição geográfica dos gols.
 <br>
