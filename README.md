@@ -19,7 +19,6 @@ Para vizualiação dos dados e tratamento foi utilizado o RStudio Cloud e as bas
 <br>
 ![image](https://github.com/rddamasceno/resultados_brasileirao_r/assets/55591959/52351a5f-a68d-4c13-bdea-e2515b9ada1d)
 
-
 <h2 align="left">🔎 Descobertas:</h2>
 
  - O futebol paulista é o mais dominante no Campeonato Brasileiro.
@@ -29,3 +28,25 @@ Para vizualiação dos dados e tratamento foi utilizado o RStudio Cloud e as bas
  - Nos anos de 2003 a 2005, 2020, 2014 e 2018, houve menos gols do que no campeonato anterior, com uma média de 0,15 gols a menos por partida.
  - A edição de 2021, com uma média de 2,95 gols por partida, foi a que teve mais gols nos últimos 16 anos, desde 2005, quando foram marcados 1.451 gols, com uma média de 3,13 gols por partida.
  - Os cinco estados com mais gols são: SP, RJ, RS, MG, PR.
+
+<h2 align="left"> 🛠️ Ferramentas:</h2>
+
+**Visualização de Dados:**
+
+ - **ggplot2:** É a principal biblioteca para a criação de gráficos elegantes no R. Ela utiliza a Gramática de Gráficos, uma estrutura que permite construir gráficos de maneira personalizada.
+
+**Manipulação de Dados:**
+
+ - **data.table:** Oferece um framework para a criação de tabelas de dados de alto desempenho, com foco na velocidade e eficiência em operações como filtragem, agrupamento e junção de grandes conjuntos de dados.
+ - **dplyr:** Proporciona uma gramática concisa e intuitiva para a manipulação de dados, facilitando operações comuns como seleção, filtragem, organização, criação de novas variáveis e resumo de dados.
+ - **tidyr:** É especializada na transformação de dados para formatos "tidy", onde cada linha representa uma observação e cada coluna uma variável, tornando os dados mais organizados e fáceis de trabalhar com outras bibliotecas.
+   
+**Análise Espacial:**
+
+ - **sf:** Permite a leitura, escrita, manipulação e análise de dados geoespaciais no R, trabalhando com diferentes tipos de geometrias (pontos, linhas, polígonos) e sistemas de coordenadas.
+
+**Escalas de Cores:**
+
+ - **viridis:** Fornece uma coleção de escalas de cores perceptualmente uniformes, projetadas para serem visualmente agradáveis e garantir a distinção de diferentes valores de dados, especialmente para pessoas com deficiência visual.
+
+
